@@ -1,0 +1,163 @@
+/*Primera pagina. Inicio*/
+h1 {
+	font-size: 25px;
+	color: #0A105F;
+	margin-top: 30px;
+}
+li {
+	display: inline-block;
+	padding: 50px;
+	color: gray;
+}
+#background {
+	background-image: url(../img/dance_1.jpg);
+	width: 100%;
+	height: 500px;
+}
+#h2studio {
+	font-size: 80px;
+	color: #D7D7D7;
+	margin-top: 50px;
+	margin-bottom: 40px;
+}
+#textostudio {
+	color: #D7D7D7;
+	font-size: 20px;
+}
+a {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+#botoninscribete {
+	width: 200px;
+	height: 50px;
+	background-color: black;
+	padding-top: 15px;
+	margin-top: 50px;
+	opacity: 0.5;
+}
+.fondotextura {
+	background-image: url(../img/textura_2.jpg);
+	width: 100%;
+	height: 510px;
+	z-index: -1;
+}
+.textofondo {
+	margin-top: 120px;
+	font-size: 32px;
+}
+#decoration1 {
+	width: 200px;
+	height: 150px;
+}
+#botonclases {
+	width: 400px;
+	height: 60px;
+	background-color: #0A105F;
+	padding-top: 15px;
+	border-radius: 9px;
+	margin-bottom: 100px;
+}
+#instructor {
+	width: 50%;
+	height: 400px;
+	position: absolute;
+	border: 1px solid black;
+	z-index: -1;
+}
+#profesor {
+	width: 50%;
+	height: 400px;
+	position: absolute;
+	margin-left: 50%;
+	border: 1px solid black;
+	z-index: -1;
+}
+#botoninstructor {
+	width: 600px;
+	height: 60px;
+	background-color: #0A105F;
+	margin-top: 340px;
+	padding-top: 20px;
+}
+#fondotextura2 {
+	background-image: url(../img/textura_2.jpg);
+	width: 100%;
+	height: 300px;
+	padding-top: 110px;
+}
+#cita {
+	font-size: 40px;
+	font-style: italic;
+}
+#backgroundblue {
+	background-color: #0A105F;
+	width: 100%;
+	height: 500px;
+}
+#textomapa {
+	color: #FFFFFF;
+	margin-top: 80px;
+	margin-bottom: 50px;
+	text-align: justify;
+}
+#h3visitanos {
+	color: #FFFFFF;
+}
+.map {
+	margin-top: 80px;
+	margin-left: 80px;
+}
+#backgroundballet {
+	background-image: url(../img/shoes_!.jpg);
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 500px;
+	background-position: right;
+}
+#contactanos {
+	font-size: 40px;
+	color: #0A105F;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.renglon {
+	width: 500px;
+	height: 30px;
+	border: 1px solid gray;
+	margin-bottom: 15px;
+}
+#renglonmensaje {
+	width: 500px;
+	height: 150px;
+	border: 1px solid gray;
+}
+.iconos {
+	width: 30px;
+	height: 20px;
+	padding-top: 3px;
+	padding-left: 5px;
+	margin-right: 15px;
+}
+.titulosiconos {
+	display: inline-block;
+}
+#botonenviar {
+	width: 500px;
+	height: 50px;
+	background-color: #0A105F;
+	margin-top: 15px;
+	border-radius: 5px;
+	padding-top: 15px;
+	margin-bottom: 50px;
+}
+a {
+	text-decoration: none;
+}
+footer {
+	background-color: #0A105F;
+	width: 100%;
+	height: 80px;
+	padding-top: 40px;
+	padding-left: 50px;
+}

@@ -1,0 +1,151 @@
+/* header*/
+h1 {
+	font-size: 25px;
+	color: #0A105F;
+	margin-top: 30px;
+}
+li {
+	display: inline-block;
+	padding: 50px;
+	color: gray;
+}
+/*seccion 1*/
+#backgroundgray {
+	background-color: #EDECEC;
+	width: 100%;
+	height: 1000px;
+}
+#ofertaclases {
+	padding-top: 80px;
+	margin-bottom: 30px;
+}
+.recuadro {
+	width: 250px;
+	height: 150px;
+	background-color: black;
+	opacity: 0.5;
+	color: white;
+	margin-top: 30px;
+	padding-top: 30px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.h2titulosclases {
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+#clases1 {
+	background-image: url("../img/dance_12.jpg");
+	width: 100%;
+	height: 355px;
+	background-position: top;
+	background-size: 100% auto;
+	display: block;
+	margin: auto;
+	padding-top: 80px;
+}
+#clases2 {
+	background-image: url("../img/breakdance.jpg");
+	width: 100%;
+	height: 355px;
+	background-position: top;
+	background-size: 100% auto;
+	display: block;
+	margin: auto;
+	padding-top: 80px;
+}
+#clases3 {
+	background-image: url("../img/lirical-jazz.jpg");
+	width: 100%;
+	height: 355px;
+	background-position: top;
+	background-size: 100% auto;
+	display: block;
+	margin: auto;
+	padding-top: 80px;
+}
+#clases4 {
+	background-image: url("../img/arabe.jpg");
+	width: 100%;
+	height: 355px;
+	background-position: top;
+	background-size: 100% auto;
+	display: block;
+	margin-top: 40px;
+	padding-top: 80px;
+}
+#clases5 {
+	background-image: url("../img/little.jpg");
+	width: 100%;
+	height: 355px;
+	background-position: top;
+	background-size: 100% auto;
+	display: block;
+	margin-top: 40px;
+	padding-top: 80px;
+}
+#clases6 {
+	background-image: url("../img/yoga.jpg");
+	width: 100%;
+	height: 355px;
+	background-position: top;
+	background-size: 100% auto;
+	display: block;
+	margin-top: 40px;
+	padding-top: 80px;
+}
+/*Seccion 5*/
+#backgroundballet {
+	background-image: url(../img/shoes_!.jpg);
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 500px;
+	background-position: right;
+}
+#contactanos {
+	font-size: 40px;
+	color: #0A105F;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.renglon {
+	width: 500px;
+	height: 30px;
+	border: 1px solid gray;
+	margin-bottom: 15px;
+}
+#renglonmensaje {
+	width: 500px;
+	height: 150px;
+	border: 1px solid gray;
+}
+.iconos {
+	width: 30px;
+	height: 20px;
+	padding-top: 3px;
+	padding-left: 5px;
+	margin-right: 15px;
+}
+.titulosiconos {
+	display: inline-block;
+}
+#botonenviar {
+	width: 500px;
+	height: 50px;
+	background-color: #0A105F;
+	margin-top: 15px;
+	border-radius: 5px;
+	padding-top: 15px;
+	margin-bottom: 50px;
+}
+a {
+	text-decoration: none;
+}
+/*Footer*/
+footer {
+	background-color: #0A105F;
+	width: 100%;
+	height: 80px;
+	padding-top: 40px;
+	padding-left: 50px;
+}
